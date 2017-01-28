@@ -1,7 +1,10 @@
-# detect-eyes
-Detect eyes from persons in an input image
+# How to use
 
-# Install DLIB
+1. Install Dlib
+2. Add the source in /dlib-install-path/examples/
+3. Modify the CMakeList.txt file and build the get_roi.cpp file
+
+# How to install and build DLIB sources
 
 http://dlib.net/compile.html
 
